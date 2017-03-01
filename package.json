@@ -1,0 +1,11 @@
+{
+    "name": "butter-dark-theme",
+    "description": "Butter official dark theme",
+    "version": "0.0.1",
+    "main": "index.css",
+    "scripts": {},
+    "dependencies": {},
+    "keywords": [ "butter", "theme", "css"],
+    "author": "Baltazar Gomez <btzr.io@gmail>"
+    "license": "MIT"
+}
