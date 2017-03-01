@@ -6,10 +6,7 @@
     "scripts": {},
     "dependencies": {},
     "keywords": [ "butter", "theme", "css"],
-    "repository" : { 
-        "type" : "git", 
-        "url" : "https://github.com/butterthemes/butter-theme-dark.git"
-    },
+    "repository" : "butterthemes/butter-theme-dark",
     "bugs": "https://github.com/butterthemes/butter-theme-dark/issues",
     "author": "Baltazar Gomez <btzr.io@gmail>",
     "license": "GPL-3.0"
