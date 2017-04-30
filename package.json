@@ -1,7 +1,7 @@
 {
     "name": "butter-theme-dark",
     "description": "Butter official dark theme",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "main": "index.css",
     "scripts": {},
     "dependencies": {},
