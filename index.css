@@ -1,10 +1,23 @@
 .butter-theme-dark{
-    --Bg-color: #17181b;
-    --Nav-color: rgba(33,34,37,0.95);
-    --Main-color: #2d72d9;
-    --Input-bg-color: #121315;
-    --Font-normal: 'Arial', sans-serif;
-    --Font-title: 'Dosis', sans-serif;
-    --Button-hover:  #225694;
-    --Button-active: #2468cc;
+    
+    /* Font */
+    --Font-family: 'Arial', sans-serif;
+    --Font-color: #FFF;
+
+    /* { Accent } */
+     --Main-color: #2d72d9;
+
+    /* -- { Window } -- */
+    --Window-bg: #17181b;
+
+    /* Window handler */
+    --Window-handler-bg: transparent;
+    --Window-handler-height: 33px;
+
+    /* -- { Navbar } -- */
+    --Navbar-bg: rgba(33,34,37,0.95);
+
+
+    /* { Actions } */
+    --Input-bg: rgba(0, 0, 0, 0.5);
 }
