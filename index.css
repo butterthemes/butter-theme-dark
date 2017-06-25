@@ -1,4 +1,4 @@
-.butter-theme-dark{
+:root {
     
     /* Font */
     --Font-family: 'Arial', sans-serif;
@@ -17,8 +17,6 @@
     /* -- { Navbar } -- */
     --Navbar-bg: rgba(33,34,37,0.95);
 
-
-    /* { Actions } */
+    /* { Input } */
     --Input-bg: rgba(0, 0, 0, 0.5);
-    --Input-radius: 3px;
 }
